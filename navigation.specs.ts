@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-// Exercise 7.6
+// Exercise 7.6 /Assignment 2
 test('navigate menu to visit each page and verify URL', async ({ page }) => {
   await page.goto('/');
 
