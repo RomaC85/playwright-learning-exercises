@@ -1,4 +1,5 @@
 PLAYWRIGHT UI TESTING - WEEK 6
+
 This folder contains my first automated UI tests using Playwright. It contains Assignments 1, 2, and 3, and Exercises 6 and 7 of Week 6.
 
 TEST ENVIRONMENT:
@@ -55,7 +56,7 @@ Pages tested:
 - Home, Apparel and Accessories, Makeup, Skincare, Fragrance, Men, HairCare and Books
 
 Assertions:
-. verified correct page navigation using toHaveURL()
+Verified correct page navigation using toHaveURL()
 
 What I learned:
 - Navigating through UI elements
